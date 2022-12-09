@@ -1,7 +1,7 @@
 # RSA-Implementation-C
-(Key Generation, Encryption, Decryption, 2^32 base arithmatic operations)
+(Key Generation, Encryption, Decryption, 2^32 base arithmetic operations)
 
-C++ implementation of RSA algortihm for BigInteger numbers. 
+C++ implementation of RSA algorithm for BigInteger numbers. 
 
 In this project, a C++ implementation has been provided to perform RSA encryption and
 decryption for up to 3072 bits of N value. The project also includes random public and private key
@@ -11,7 +11,7 @@ for basic operations of N bit numbers.
 Description of the Project files:
 The project includes two class. The BigInteger class and the RSABigInteger class.
 The BigInteger class holds the BigInteger numbers and their size as member variables. The large
-integer numbers are stored as 232 bit base numbers in an array of unsigned integers.
+integer numbers are stored as 2^32 bit base numbers in an array of unsigned integers.
 The class also includes a number of methods to perform basic operations of these large numbers.
 The implemented methods of this class are given below:
 
