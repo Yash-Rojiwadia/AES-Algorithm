@@ -12,9 +12,9 @@ Dhruv Sagar ().
 RSA Implementation in C++ :
 
 
-(Key Generation, Encryption, Decryption, 2^32 base arithmatic operations)
+(Key Generation, Encryption, Decryption, 2^32 base arithmetic operations)
 
-C++ implementation of RSA algortihm for BigInteger numbers. 
+C++ implementation of RSA algorithm for BigInteger numbers. 
 
 In this project, a C++ implementation has been provided to perform RSA encryption and
 decryption for up to 3072 bits of N value. The project also includes random public and private key
@@ -35,7 +35,7 @@ line of the build.bash file.
 
 
 
-Referfences :
+References :
 - RSA Algorithm Example : https://www.cs.utexas.edu/~mitra/honors/soln.html
 - Donald E. Knuth The Art Of Computer Programming 4.3.1 pages 266-273
 - Sanjoy Dasgupta Algorithms
